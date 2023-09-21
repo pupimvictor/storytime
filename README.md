@@ -42,6 +42,4 @@ Before using this script, make sure you have the following:
 
 - The script can be further extended and customized to suit your specific needs.
 
----
-
-Feel free to save this README to a file named `README.md` or any other preferred name and include it with your script for reference.
+--- CREATED BY CHATGPT 3.5 ---
