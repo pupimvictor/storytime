@@ -1,7 +1,3 @@
-Certainly! Here's a summary of all the prompts and instructions you've requested in a single README file:
-
----
-
 # Bash Script for Pivotal Tracker API Integration
 
 This Bash script helps you create a Pivotal Tracker story using the Pivotal Tracker API. The script prompts you for various inputs, sends an HTTP request to create the story, and provides feedback based on the HTTP response code.
