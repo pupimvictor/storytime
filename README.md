@@ -6,7 +6,8 @@ This Bash script helps you create a Pivotal Tracker story using the Pivotal Trac
 
 Before using this script, make sure you have the following:
 
-- Pivotal Tracker API token: You need to export your Pivotal Tracker API token as an environment variable named `TOKEN`. You can obtain your API token from your Pivotal Tracker account settings.
+- Pivotal Tracker API token: You need to export your Pivotal Tracker API token as an environment variable named `TOKEN`. You can obtain your API token from your Pivotal Tracker account settings. Find you token here: https://www.pivotaltracker.com/profile
+- Tracker Project Id. You can find it on you board URL
 
 ## Usage
 
