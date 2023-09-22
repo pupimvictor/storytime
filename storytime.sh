@@ -83,8 +83,13 @@ END
   rm -f response.json
 }
 
+check_jq() {
+  type -P jq > /dev/null 2>&1 || { >&2 echo "The \`jq\` binary is required to run this script. Please install and ensure it is in your PATH."; exit 1; }
+}
+
 # Main script flow
 main() {
+  check_jq
   check_token
   get_project_id
   prompt_user_input
